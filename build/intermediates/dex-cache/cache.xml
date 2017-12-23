@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/omar/Downloads/MovieDB/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf93c62861d83efce608611f6fe9a0e808a36335">
+        <dex dex="/Users/omar/Downloads/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_67882ebe3df83cbf1ca0f601c091a92550cf2d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/omar/Downloads/MovieDB/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/omar/Downloads/MovieDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_81e0a8c98eee3bb4f370309308be46293a1a9c10/classes.dex" />
+    </item>
+
+</items>

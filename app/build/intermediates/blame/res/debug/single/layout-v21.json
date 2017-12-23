@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/omar/Downloads/MovieDB/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/omar/.android/build-cache/d8828267c8c46dc23ad3ab14bb51cf6976fbc478/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/omar/Downloads/MovieDB/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/omar/.android/build-cache/d8828267c8c46dc23ad3ab14bb51cf6976fbc478/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/omar/Downloads/MovieDB/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/omar/.android/build-cache/d8828267c8c46dc23ad3ab14bb51cf6976fbc478/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/omar/Downloads/MovieDB/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/omar/.android/build-cache/d8828267c8c46dc23ad3ab14bb51cf6976fbc478/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

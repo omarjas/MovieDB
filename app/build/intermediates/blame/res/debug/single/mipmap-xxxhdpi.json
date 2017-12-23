@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/omar/Downloads/MovieDB/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/omar/Downloads/MovieDB/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/omar/Downloads/MovieDB/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/omar/Downloads/MovieDB/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
